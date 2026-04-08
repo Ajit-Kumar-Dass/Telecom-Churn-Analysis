@@ -1,7 +1,3 @@
-Here’s a more natural, human-written version of your README—clean, simple, and something you’d genuinely see on a developer’s repo:
-
----
-
 # 📊 Telecom Churn Analysis (Power BI)
 
 ## 📌 Overview
